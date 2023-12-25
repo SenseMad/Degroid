@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1d9bd77a54007043bc06a82c7748d75, type: 3}
+  m_Name: Level_14
+  m_EditorClassIdentifier: 
+  _indexLevel: 13
+  _item: {fileID: 0}
+  _key: {fileID: 21300000, guid: 0f6306a010847f24785f544d70820c5a, type: 3}
+  _doorStart: {fileID: 21300000, guid: fdbe09649fefdea4dbada9105d3f7bc6, type: 3}
+  _doorEnd: {fileID: 21300000, guid: 29b07f5cdc4cac14d9b88f8df40deb55, type: 3}
+  _doorOpen: {fileID: 21300000, guid: 5455e644357933c4dac75b3bcd01f350, type: 3}
